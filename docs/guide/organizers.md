@@ -18,7 +18,7 @@ In addition to the information in this document, check out the guides that meetu
 - [Meetup.com Organizer Guide](https://www.meetup.com/blog/category/organizer-guide/)
 - [Meetup.com Help Center](https://help.meetup.com/hc/en-us) 
 
-We recommend using  to run your local group, however, we recognize that there may be reasons why the site isn't the best fit for your community. For example, [http://meetup.com](meetup.com) isn't accessible in China. If you want to use other event hosting platforms please get in touch with us. Note that our guidelines for running meetups will still apply and that we may also create a group on [http://meetup.com](meetup.com) to point to where you are hosting your event in order to better promote your activities. Recordings from the event can be uploaded to GSF’s youtube channel. Please reach out to us at meetup@greensoftware.foundation if you would like to upload a recording from your event.
+We recommend using  to run your local group, however, we recognize that there may be reasons why the site isn't the best fit for your community. For example, [meetup.com](http://meetup.com) isn't accessible in China. If you want to use other event hosting platforms please get in touch with us. Note that our guidelines for running meetups will still apply and that we may also create a group on [meetup.com](http://meetup.com) to point to where you are hosting your event in order to better promote your activities. Recordings from the event can be uploaded to GSF’s youtube channel. Please reach out to us at meetup@greensoftware.foundation if you would like to upload a recording from your event.
 
 
 ## Collaborating with other Organizers
