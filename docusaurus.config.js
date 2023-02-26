@@ -54,7 +54,7 @@ const config = {
     ({
       navbar: {
         // Change to project name
-        title: "TODO",
+        title: "Meetup",
         // Change to project logo
         logo: {
           alt: "Green Software Meetup Logo",
