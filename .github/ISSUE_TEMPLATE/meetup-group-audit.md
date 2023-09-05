@@ -21,14 +21,24 @@ Sponsored Groups (non-GSF controlled groups) may be removed from Meetup Pro in t
 | Group Membership  | Insert number of members  |
 | Average RSVPs  | Insert Average RSVPs from Meetup Pro dash  |
 | Upcoming events | Insert from Meetup Page (must be local events, not network) |
-| Active Group? | YES|NO based on in-person activity in previous 3 months |
+| Active Group? | YES/NO based on in-person activity in previous 3 months |
 | Active Organisers | Number of active organisers (have been on the page last 3 months) |
 | Organiser GitHub Handles | If known, paste GitHub handles here |
 
-###Where the group is active...
+### Where the group is active...
+- [ ] Does the organiser feel they have all the help and support they need?
+- [ ] Are the organisers part of the [_meetup-organizers_ Google Group](https://groups.google.com/a/greensoftware.foundation/g/meetup-organizers/members)?
+- [ ] Is there a roadmap of events?
+- [ ] Have all events been catalogued in GitHub? Template for creating a new meetup event issue is [here](https://github.com/Green-Software-Foundation/meetup/issues/new?assignees=&labels=event&projects=&template=new-event.md&title=YYYY+MM+DD+-+%5BMeetup+Group%5D+-+Event+Playbook). 
 
+---
+#### Upcoming events
 
-###Where the group is inactive...
+_Copy issue links here_
+
+---
+
+### Where the group is inactive...
 - [ ] Have we tried to contact the organiser?
 - [ ] Have we emailed the existing membership to find a new organiser?
 - [ ] Is the group sufficiently inactive to propose asking members to join GSF Global in place of a local group?
