@@ -2,7 +2,7 @@
 name: New Meetup Event
 about: If you want to organize a meetup event
 title: YYYY MM DD - [Meetup Group] - Event Playbook
-labels: event
+labels: ''
 assignees: ''
 
 ---
