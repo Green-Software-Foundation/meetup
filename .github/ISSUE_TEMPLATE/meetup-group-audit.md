@@ -1,9 +1,9 @@
 ---
 name: Meetup Group Audit
 about: Regular meetup review
-title: 'Group Audit: Green Software [GROUP NAME] 202X-XX-XX'
+title: 'Group Audit: Green Software [GROUP NAME] YYYY-MM'
 labels: meetup-audit
-assignees: adamj89
+assignees: adamj89, MkrtchyanAni
 
 ---
 
@@ -17,6 +17,7 @@ Sponsored Groups (non-GSF controlled groups) may be removed from Meetup Pro in t
 
 | Category | Data |
 | ------------- | ------------- |
+| Year & Month of Review | YYYY-MM  |
 | Location | Insert location here  |
 | Group Membership  | Insert number of members  |
 | Average RSVPs  | Insert Average RSVPs from Meetup Pro dash  |
