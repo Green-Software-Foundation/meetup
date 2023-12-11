@@ -30,10 +30,10 @@ Here are some ideas for activities groups might want to work on:
 
 GSF can support Groups with:
 
-* **Meetup Costs:** Covering the costs of creating and maintaining groups on Meetup.com. _This solely relates to the costs of creating and _maintaining_ the Group on the Meetup platform. GSF does not cover costs related to the specific events. _
+* **Meetup Costs:** Covering the costs of creating and maintaining groups on Meetup.com. _This solely relates to the costs of creating and maintaining_ the Group on the Meetup platform. GSF does not cover costs related to the specific events.
 * **Communication**: Creating a _global_ mailing list, discussion forums, meetings and document space to facilitate communication across all groups.
-* **Career Growth:** "GSF Meetup Organizer" is an official community role that someone can use to build their resume, share over LinkedIn, and gain additional career skills
-* **Speakers**: GSF maintains a database of [speakers](https://speakers.greensoftware.foundation/) and can help to coordinate their engagement in local events where needed
+* **Career Growth:** "GSF Meetup Organizer" is an official community role that someone can use to build their resume, share over LinkedIn, and gain additional career skills.
+* **Speakers**: GSF maintains a database of [speakers](https://speakers.greensoftware.foundation/) and can help to coordinate their engagement in local events where needed.
 * **Graphic Support:** GSF can create graphics to support your meetup including cover images and social share images, stickers etc...
 * **Marketting Support:** GSF can help promote your meetup event to our newsletter and social channels.
 
